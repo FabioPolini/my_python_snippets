@@ -1,5 +1,6 @@
 """
- Demonstrating use of dictionaries
+ Demonstrating use of dictionaries.
+ Dictionaries are ordered, changeable, and does not allow duplicates
 """
 
 # dict constructor to make new dictionary

@@ -2,6 +2,7 @@
  Some operation with lists - python don't have array data type.
  List can be used instead with some restrictions.
  Use Numpy if you need array data type
+ Lists are mutable, ordered, can store mix types and allow duplicate values
 """
 
 # init array
